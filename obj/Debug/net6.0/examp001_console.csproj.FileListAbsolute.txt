@@ -1,0 +1,15 @@
+C:\СSHARP\examp001_console\bin\Debug\net6.0\examp001_console.exe
+C:\СSHARP\examp001_console\bin\Debug\net6.0\examp001_console.deps.json
+C:\СSHARP\examp001_console\bin\Debug\net6.0\examp001_console.runtimeconfig.json
+C:\СSHARP\examp001_console\bin\Debug\net6.0\examp001_console.dll
+C:\СSHARP\examp001_console\bin\Debug\net6.0\examp001_console.pdb
+C:\СSHARP\examp001_console\obj\Debug\net6.0\examp001_console.csproj.AssemblyReference.cache
+C:\СSHARP\examp001_console\obj\Debug\net6.0\examp001_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\СSHARP\examp001_console\obj\Debug\net6.0\examp001_console.AssemblyInfoInputs.cache
+C:\СSHARP\examp001_console\obj\Debug\net6.0\examp001_console.AssemblyInfo.cs
+C:\СSHARP\examp001_console\obj\Debug\net6.0\examp001_console.csproj.CoreCompileInputs.cache
+C:\СSHARP\examp001_console\obj\Debug\net6.0\examp001_console.dll
+C:\СSHARP\examp001_console\obj\Debug\net6.0\refint\examp001_console.dll
+C:\СSHARP\examp001_console\obj\Debug\net6.0\examp001_console.pdb
+C:\СSHARP\examp001_console\obj\Debug\net6.0\examp001_console.genruntimeconfig.cache
+C:\СSHARP\examp001_console\obj\Debug\net6.0\ref\examp001_console.dll
